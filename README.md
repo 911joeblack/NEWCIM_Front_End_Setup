@@ -1,3 +1,4 @@
+This is designed to be cloned to a cloud workspace so development can begin immediately, simply clone and run npm install 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
